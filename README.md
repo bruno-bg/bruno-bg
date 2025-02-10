@@ -6,18 +6,11 @@ Me chamo Bruno Guimarães, tenho 42 anos e sou natural de Belo Horizonte. Atualm
 
 
 <p align="left">
-        <a href="https://github.com/bruno-bg?tab=followers">
+        <a href="https://www.linkedin.com/in/bruno-guimar%C3%A3es-421b724a/">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/bruno-bg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/bruno-bg?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/bruno-bg?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Linkedin" 
+            title="Linkedin" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario/"
         />
     </a>
     <a href="https://www.instagram.com/dev_bg">
