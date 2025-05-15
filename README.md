@@ -85,14 +85,3 @@ Me chamo Bruno Guimarães e sou natural de Belo Horizonte. Atualmente estou curs
 <br/>
 <br/>
 
-### 📈 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=bruno-bg&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&locale=pt-br" 
-  />
-</p>
