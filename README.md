@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Me chamo Bruno Guimarães e sou natural de Belo Horizonte. Atualmente estou cursando Desenvolvimento WEB. Sou apaixonado por tecnologia.
+Estudante de Engenharia de Software e Desenvolvimento Web, com forte interesse por tecnologia, inovação e projetos práticos. Belo Horizonte - MG.
 
 <p align="left">
         <a href="https://www.linkedin.com/in/bruno-guimar%C3%A3es-421b724a/">
